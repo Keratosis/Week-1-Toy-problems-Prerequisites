@@ -21,4 +21,12 @@ CHallenge 3:Net Salary Calculator (Toy Problem)
 
 
 #credit
-The above code was written by I ,Braxton Omondi with the help of google and chatgpt as refference points .
+The above code was written by I ,Braxton Omondi with the help of :
+#refference points 
+JavaScript
+Notes for Professionals
+®
+Notes for Professionals
+400+ pages
+of professional hints and tricks
+GoalKicker.com
